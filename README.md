@@ -40,7 +40,7 @@ Dashboard dilengkapi dengan filter interaktif berdasarkan Order Date, Platform, 
 
 ## Dashboard Preview
 
-![](assets/dashboard_preview.png)
+![](assets/dahsboard_preview.png)
 
 ## Tools & Techniques
 
